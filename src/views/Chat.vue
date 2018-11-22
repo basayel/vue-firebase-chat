@@ -57,6 +57,7 @@
 </script>
 
 <style>
+.card { text-align: left; }
 .chat h2 {
   font-size: 2.6em;
   margin-bottom: 0px;
